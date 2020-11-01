@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SampleProjectPlanet
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: danito
+Implementation-Vendor-Id: mx.com.danito.api.sample.planet
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://spring.io/projects/spring-boot/SampleProje
+ ctPlanet
+Created-By: Maven Integration for Eclipse
+
